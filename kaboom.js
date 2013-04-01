@@ -1,4 +1,4 @@
-// > Kaboom.js 0.1.0
+// > Kaboom.js 0.0.1
 // > (c) 2013 -2014 Attila SATAN
 // > Kaboom.js may be freely distributed under the MIT license.
 // > Includes parts of underscore.js
