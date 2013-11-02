@@ -3,9 +3,7 @@
 // > Kaboom.js may be freely distributed under the MIT license.
 // > Includes parts of underscore.js
 // =============================================================
-// http://underscorejs.org
-// (c) 2009-2013 Jeremy Ashkenas, DocumentCloud Inc.
-// Underscore may be freely distributed under the MIT licens
+
 (function() {
     
     var glob = this;
